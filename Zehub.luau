@@ -115,7 +115,7 @@ end)
 
 
 game.StarterGui:SetCore("SendNotification",{
-    Title = "BY.EZE",
+    Title = "BY.Zehub",
     Text = "OPTIMIZADO SIN LAG",
     Duration = 8
 })
